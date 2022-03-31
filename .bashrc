@@ -10,6 +10,7 @@ alias gc="git commit -a"
 alias gp="git push"
 alias gs="git status"
 alias gt="git log --graph --decorate --oneline"
+alias ga="git add -A"
 
 alias rc="vim ~/.bashrc"
 alias src="source ~/.bashrc"
