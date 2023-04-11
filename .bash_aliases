@@ -1,3 +1,6 @@
+# create symbolic link in ~:
+# ln bashrc/.bash_aliases .bash_aliases
+
 alias la="ls -lall"
 alias md="mkdir"
 alias h="history"
