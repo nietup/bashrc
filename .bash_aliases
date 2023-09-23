@@ -3,6 +3,7 @@ alias md="mkdir"
 alias h="history"
 alias cls="clear"
 alias here="pwd | rev | cut -d'/' -f1 | rev"
+alias fix-sound="sudo alsa force-reload"
 
 alias gc="git commit -a"
 alias gp="git push"
